@@ -9,12 +9,11 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: rgb(53, 53, 53)
+  background-color: #2C3539
 }
 
 html {
   scroll-behavior: smooth;
-  background-color: rgb(53, 53, 53)
 }
 
 p {
